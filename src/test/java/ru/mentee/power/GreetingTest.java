@@ -1,4 +1,4 @@
-package by.PoltavetsAV;
+package ru.mentee.power;
 
 import org.junit.jupiter.api.Test;
 
